@@ -5,8 +5,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  ![abi-shek-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true)
-  ![abi-shek-dev's Stats](https://github-readme-stats.vercel.app/api?username=abi-shek-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abi-shek-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
 </div>
 
 ---
