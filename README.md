@@ -4,7 +4,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true" alt="Streak Stats" />
 
