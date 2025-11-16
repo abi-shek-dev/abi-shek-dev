@@ -12,12 +12,6 @@
     style="display:inline-block; margin: 10px;" 
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abi-shek-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    style="display:inline-block; margin: 10px;" 
-  />
-
 </div>
 
 
