@@ -4,15 +4,22 @@
 
 ### 📊 GitHub Stats
 
-<div>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true" alt="Streak Stats" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true" 
+    alt="Streak Stats" 
+    style="display:inline-block; margin: 10px;" 
+  />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=abi-shek-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abi-shek-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    style="display:inline-block; margin: 10px;" 
+  />
 
 </div>
+
 
 ---
 
