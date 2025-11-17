@@ -27,6 +27,7 @@
 - JavaScript
 - Express
 - MongoDB
+- Next.js
 
 ---
 
