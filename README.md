@@ -1,57 +1,44 @@
-<h2 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">!  
-  I'm <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=200&lines=Abishek;Xe54z" alt="Typing SVG">  
-  <br>
-  <b>A Beginner Full-Stack Developer</b>
-</h2>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5FF,100:0077FF&height=140&section=header&text=Welcome+to+My+Profile&fontSize=35&animation=fadeIn&fontColor=ffffff" />
-</div>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! 
+My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
 
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=tokyonight&hide_border=true" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abi-shek-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true" 
+    alt="Streak Stats" 
+    style="display:inline-block; margin: 10px;" 
+  />
 
 </div>
 
 ---
 
-### 🧠 Languages & Tools  
-<div align="center">
+### 🧠 Languages Known
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,express,mongodb,react,nextjs" height="60">
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077FF,100:00E5FF&height=2" />
-</div>
-
-### 🌐 Connect with Me  
-<div align="left">
-
-- Instagram: [abishek.xe](https://www.instagram.com/abishek.xe/)  
-- LinkedIn: [abishek-m-xe54z](https://www.linkedin.com/in/abishek-m-xe54z/)  
-- X (Twitter): [abishekm0613](https://x.com/abishekm0613)  
-- HackerRank: [abishekinterspa1](https://www.hackerrank.com/profile/abishekinterspa1)
-
-</div>
+- Python  
+- HTML  
+- CSS  
+- React  
+- Node.js  
+- JavaScript
+- Express
+- MongoDB
+- Next.js
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0077FF,100:00E5FF&height=140&section=footer"/>
-</div>
+### 🌐 Connect with me
+
+- Instagram   : [abishek.xe](https://www.instagram.com/abishek.xe/)
+- Linkedin    : [abishek-m-xe54z](https://www.linkedin.com/in/abishek-m-xe54z/)
+- X (Twitter) : [abishekm0613](https://x.com/abishekm0613)
+- HackerRank  : [abishekinterspa1](https://www.hackerrank.com/profile/abishekinterspa1)
+
+---
 
 
 <!--START_SECTION:waka-->
