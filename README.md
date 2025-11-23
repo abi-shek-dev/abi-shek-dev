@@ -4,14 +4,11 @@ My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=vue-dark&hide_border=true" 
-    alt="Streak Stats" 
-    style="display:inline-block; margin: 10px;" 
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abi-shek-dev&theme=tokyonight&hide_border=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abi-shek-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
