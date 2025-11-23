@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! 
+My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
 
 ---
 
