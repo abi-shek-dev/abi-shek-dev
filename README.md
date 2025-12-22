@@ -39,12 +39,13 @@ I build web applications using modern JavaScript frameworks and Python.
 - Instagram   : [Xe54z on Instagram](https://www.instagram.com/abishek.xe/)
 - Linkedin    : [Xe54z on LinkedIn](https://www.linkedin.com/in/xe54z/)
 - X (Twitter) : [Xe54z on X](https://x.com/abishekm0613)
-- HackerRank  : [Xe54z on HackerRank](https://www.hackerrank.com/profile/abishekinterspa1)
+- HackerRank  : [Abishek (Xe54z) on HackerRank](https://www.hackerrank.com/profile/abishekinterspa1)
 
 ---
 
 <details>
 <summary>📊 Coding Activity (WakaTime)</summary>
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2054%20mins-blue)
 
@@ -125,7 +126,6 @@ C++                      1 repo              █░░░░░░░░░░�
   <a href="https://abish-file.web.app/" target="_blank" rel="noopener noreferrer"><img height="200" src="pic.png" alt="Xe54z - Abishek M Full Stack Developer" /></a>
 </div>
 
-<div align="center">
- ### 🔎 Searching for **Xe54z**?  
- <p>You’ll find my work on GitHub, LinkedIn, and my portfolio.</p>
-</div>
+<p align="center"><b>🔎 Searching for Xe54z?</b></p>
+<p align="center">You’ll find my work on GitHub, LinkedIn, and my portfolio.</p>
+
