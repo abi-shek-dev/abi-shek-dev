@@ -1,5 +1,11 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! 
-My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!, I'm Abishek (Xe54z)</h1>
+<h3 align="center"> Full-Stack Developer & AI Enthusiast</h3>
+
+---
+
+<p align="center">Xe54z is the online alias of Abishek M, a beginner full-stack developer and AI enthusiast.
+I build web applications using modern JavaScript frameworks and Python.
+</p>
 
 ---
 
@@ -14,7 +20,7 @@ My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
 
 ---
 
-### 🧠 Languages Known
+### 🧠 Tech Stack Used by Xe54z
 
 - Python  
 - HTML  
@@ -30,14 +36,15 @@ My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
 
 ### 🌐 Connect with me
 
-- Instagram   : [abishek.xe](https://www.instagram.com/abishek.xe/)
-- Linkedin    : [abishek-m-xe54z](https://www.linkedin.com/in/abishek-m-xe54z/)
-- X (Twitter) : [abishekm0613](https://x.com/abishekm0613)
-- HackerRank  : [abishekinterspa1](https://www.hackerrank.com/profile/abishekinterspa1)
+- Instagram   : [Xe54z on Instagram](https://www.instagram.com/abishek.xe/)
+- Linkedin    : [Xe54z on LinkedIn](https://www.linkedin.com/in/xe54z/)
+- X (Twitter) : [Xe54z on X](https://x.com/abishekm0613)
+- HackerRank  : [Xe54z on HackerRank](https://www.hackerrank.com/profile/abishekinterspa1)
 
 ---
 
-
+<details>
+<summary>📊 Coding Activity (WakaTime)</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2054%20mins-blue)
 
@@ -110,9 +117,15 @@ C++                      1 repo              █░░░░░░░░░░�
  Last Updated on 22/12/2025 02:07:47 UTC
 <!--END_SECTION:waka-->
 
+</details>
+
 ---
 
 <div align="center">
-  <a href="https://abish-file.web.app/" target="_blank" rel="noopener noreferrer"><img height="200" src="pic.png" alt="Profile Picture" /></a>
+  <a href="https://abish-file.web.app/" target="_blank" rel="noopener noreferrer"><img height="200" src="pic.png" alt="Xe54z - Abishek M Full Stack Developer" /></a>
 </div>
 
+<div align="center">
+ ### 🔎 Searching for **Xe54z**?  
+ <p>You’ll find my work on GitHub, LinkedIn, and my portfolio.</p>
+</div>
