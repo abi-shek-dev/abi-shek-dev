@@ -40,6 +40,7 @@ I build web applications using modern JavaScript frameworks and Python.
 - Linkedin    : [Xe54z on LinkedIn](https://www.linkedin.com/in/xe54z/)
 - X (Twitter) : [Xe54z on X](https://x.com/abishekm0613)
 - HackerRank  : [Abishek (Xe54z) on HackerRank](https://www.hackerrank.com/profile/abishekinterspa1)
+- Linktree    : [Abishek (Xe54z) on Linktree](https://linktr.ee/xe54z)
 
 ---
 
@@ -47,6 +48,7 @@ I build web applications using modern JavaScript frameworks and Python.
 <summary>📊 Coding Activity (WakaTime)</summary>
  
 <!--START_SECTION:waka-->
+---
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
