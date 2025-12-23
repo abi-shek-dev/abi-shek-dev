@@ -46,6 +46,8 @@ I build web applications using modern JavaScript frameworks and Python.
 
 <details>
 <summary>📊 Coding Activity (WakaTime)</summary>
+
+###
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2056%20mins-blue)
