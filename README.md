@@ -36,11 +36,11 @@ I build web applications using modern JavaScript frameworks and Python.
 
 ### 🌐 Connect with me
 
-- Instagram   : [Xe54z on Instagram](https://www.instagram.com/abishek.xe/)
-- Linkedin    : [Xe54z on LinkedIn](https://www.linkedin.com/in/xe54z/)
-- X (Twitter) : [Xe54z on X](https://x.com/abishekm0613)
-- HackerRank  : [Abishek (Xe54z) on HackerRank](https://www.hackerrank.com/profile/abishekinterspa1)
-- Linktree    : [Abishek (Xe54z) on Linktree](https://linktr.ee/xe54z)
+- Abishek (Xe54z) on Instagram   : [Instagram](https://www.instagram.com/abishek.xe/)
+- Abishek (Xe54z) on Linkedin    : [LinkedIn](https://www.linkedin.com/in/xe54z/)
+- Abishek (Xe54z) on X (Twitter) : [X](https://x.com/abishekm0613)
+- Abishek (Xe54z) on HackerRank  : [HackerRank](https://www.hackerrank.com/profile/abishekinterspa1)
+- Abishek (Xe54z) on Linktree    : [Linktree](https://linktr.ee/xe54z)
 
 ---
 
