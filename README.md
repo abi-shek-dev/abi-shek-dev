@@ -41,8 +41,6 @@ I build web applications using modern JavaScript frameworks and Python.
 ###
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2012%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 501.1 kB Used in GitHub's Storage 
@@ -108,7 +106,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 04:05:59 UTC
+ Last Updated on 29/05/2026 04:08:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
