@@ -41,7 +41,7 @@ I build web applications using modern JavaScript frameworks and Python.
 ###
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,8 @@ Sunday                   237 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     8 mins              █████████████████████████   100.00 % 
+Bash                     8 mins              ███████████████████████░░   93.82 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
 VS Code                  8 mins              █████████████████████████   100.00 % 
@@ -104,7 +105,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 04:14:52 UTC
+ Last Updated on 06/06/2026 03:57:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
