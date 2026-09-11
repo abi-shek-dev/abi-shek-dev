@@ -47,9 +47,9 @@ I build web applications using modern JavaScript frameworks and Python.
 
 **🐱 My GitHub Data** 
 
-> 📦 635.5 kB Used in GitHub's Storage 
+> 📦 635.3 kB Used in GitHub's Storage 
  > 
-> 🏆 777 Contributions in the Year 2026
+> 🏆 782 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,21 @@ I build web applications using modern JavaScript frameworks and Python.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-🌆 Daytime                456 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-🌃 Evening                860 commits         ███████████░░░░░░░░░░░░░░   44.08 % 
-🌙 Night                  297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌞 Morning                338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌆 Daytime                456 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+🌃 Evening                866 commits         ███████████░░░░░░░░░░░░░░   44.25 % 
+🌙 Night                  297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  332 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Saturday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Sunday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Sunday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 ```
 
 
@@ -84,19 +84,40 @@ Sunday                   318 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               52 mins             ███████████░░░░░░░░░░░░░░   44.24 % 
+Markdown                 43 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
+Python                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          1 hr 58 mins        █████████████████████████   99.74 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 58 mins (99.74%)
+
+✍️ 245 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 19 AI Prompts
+
+Gemini                   304 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,425 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +133,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 04:01:12 UTC
+ Last Updated on 11/09/2026 03:58:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
