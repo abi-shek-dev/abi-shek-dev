@@ -41,9 +41,9 @@ I build web applications using modern JavaScript frameworks and Python.
 ###
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,25 +84,24 @@ Sunday                   320 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      3 hrs 39 mins       ██████████████████░░░░░░░   71.09 % 
-JavaScript               1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+CSS                      4 hrs               █████████████████░░░░░░░░   68.66 % 
+JavaScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   98.11 % 
-Antigravity IDE          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+VS Code                  5 hrs 45 mins       █████████████████████████   98.34 % 
+Antigravity IDE          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (1.89%)
+⏱ AI Coding Time: 5 mins (1.66%)
 
-✍️ 0 lines written by AI, 436 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 534 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -130,7 +129,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 04:19:54 UTC
+ Last Updated on 18/09/2026 04:04:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
