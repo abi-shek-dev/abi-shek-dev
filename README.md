@@ -84,36 +84,36 @@ Sunday                   329 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      2 hrs 7 mins        ██████████████░░░░░░░░░░░   55.39 % 
-JavaScript               1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript               1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.37 % 
+CSS                      58 mins             ██████████░░░░░░░░░░░░░░░   39.89 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       ██████████████████████░░░   87.26 % 
-Antigravity IDE          29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+VS Code                  2 hrs 4 mins        █████████████████████░░░░   84.15 % 
+Antigravity IDE          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (12.74%)
+⏱ AI Coding Time: 23 mins (15.85%)
 
-✍️ 0 lines written by AI, 197 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 137 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 315 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 39 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -130,7 +130,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 04:10:43 UTC
+ Last Updated on 24/09/2026 04:05:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
