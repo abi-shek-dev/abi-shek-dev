@@ -84,25 +84,24 @@ Sunday                   329 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               40 mins             ██████████░░░░░░░░░░░░░░░   38.05 % 
-CSS                      37 mins             █████████░░░░░░░░░░░░░░░░   35.73 % 
-Other                    23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JavaScript               35 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
+CSS                      23 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        ███████████████████░░░░░░   77.83 % 
-Antigravity IDE          23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+VS Code                  59 mins             ██████████████████░░░░░░░   71.67 % 
+Antigravity IDE          23 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (22.17%)
+⏱ AI Coding Time: 23 mins (28.33%)
 
-✍️ 0 lines written by AI, 39 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -130,7 +129,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 04:24:21 UTC
+ Last Updated on 27/09/2026 04:40:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
