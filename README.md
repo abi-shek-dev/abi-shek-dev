@@ -84,36 +84,20 @@ Sunday                   329 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               35 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
-CSS                      23 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+JavaScript               19 mins             ████████████████░░░░░░░░░   65.76 % 
+CSS                      10 mins             █████████░░░░░░░░░░░░░░░░   34.24 % 
 
 🔥 Editors: 
-VS Code                  59 mins             ██████████████████░░░░░░░   71.67 % 
-Antigravity IDE          23 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (28.33%)
-
-✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 39 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +113,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 04:40:55 UTC
+ Last Updated on 28/09/2026 04:42:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
