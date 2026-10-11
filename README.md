@@ -84,13 +84,13 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,7 +112,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 05:14:30 UTC
+ Last Updated on 11/10/2026 05:04:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
