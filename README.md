@@ -84,38 +84,19 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     11 mins             ████████████████░░░░░░░░░   64.54 % 
-JavaScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Kotlin                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Java                     11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 mins             ████████████████░░░░░░░░░   64.54 % 
-Antigravity IDE          6 mins              █████████░░░░░░░░░░░░░░░░   35.46 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (35.46%)
-
-✍️ 33 lines written by AI, 18 lines written by hand (64.71% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-Sonnet                   33 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.71% of written lines came from AI
-📝 Concise Prompter — average 82 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 38.89% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +112,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 05:19:01 UTC
+ Last Updated on 13/10/2026 06:17:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
