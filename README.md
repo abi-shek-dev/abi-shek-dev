@@ -41,9 +41,9 @@ I build web applications using modern JavaScript frameworks and Python.
 ###
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,39 +84,40 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     14 mins             ████████████████░░░░░░░░░   63.19 % 
-Python                   8 mins              █████████░░░░░░░░░░░░░░░░   36.75 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.43 % 
+CSS                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+JavaScript               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████░░░░░░░░░░░░   50.39 % 
-Antigravity IDE          8 mins              █████████░░░░░░░░░░░░░░░░   36.75 % 
-IntelliJ IDEA            2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Antigravity IDE          1 hr 9 mins         █████████████░░░░░░░░░░░░   51.56 % 
+IntelliJ IDEA            1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.44 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (36.75%)
+⏱ AI Coding Time: 1 hr 9 mins (51.56%)
 
-✍️ 33 lines written by AI, 18 lines written by hand (64.71% AI-written)
+✍️ 452 lines written by AI, 37 lines written by hand (92.43% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 27 AI Prompts
 
-Sonnet                   33 lines            █████████████████████████   100.00 % 
+Sonnet                   474 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.71% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 38.89% of changed lines were hand-edited
+🤖 AI-Driven — 92.43% of written lines came from AI
+📝 Concise Prompter — average 64 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 8.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +133,7 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 03:48:38 UTC
+ Last Updated on 18/10/2026 03:55:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
