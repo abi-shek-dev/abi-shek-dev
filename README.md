@@ -84,26 +84,26 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.43 % 
-CSS                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-JavaScript               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Java                     1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.63 % 
+CSS                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+JavaScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 9 mins         █████████████░░░░░░░░░░░░   51.56 % 
-IntelliJ IDEA            1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.44 % 
+IntelliJ IDEA            1 hr 44 mins        ███████████████░░░░░░░░░░   60.10 % 
+Antigravity IDE          1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.90 % 
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (51.56%)
+⏱ AI Coding Time: 1 hr 9 mins (39.9%)
 
-✍️ 452 lines written by AI, 37 lines written by hand (92.43% AI-written)
+✍️ 452 lines written by AI, 76 lines written by hand (85.61% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -114,10 +114,10 @@ Windows                  2 hrs 14 mins       ███████████�
 Sonnet                   474 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.43% of written lines came from AI
+🤖 AI-Driven — 85.61% of written lines came from AI
 📝 Concise Prompter — average 64 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 8.85% of changed lines were hand-edited
+🚀 High AI Trust — 15.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +133,7 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 03:55:06 UTC
+ Last Updated on 19/10/2026 04:04:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
