@@ -84,26 +84,26 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   40.08 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-XML                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Java Properties          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Java                     50 mins             ███████████░░░░░░░░░░░░░░   42.92 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 14 mins       ██████████████████████░░░   86.11 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+IntelliJ IDEA            1 hr 35 mins        ████████████████████░░░░░   81.43 % 
+VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
 
 💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (36.53%)
+⏱ AI Coding Time: 57 mins (48.81%)
 
-✍️ 147 lines written by AI, 93 lines written by hand (61.25% AI-written)
+✍️ 147 lines written by AI, 54 lines written by hand (73.13% AI-written)
 
 🔤 23,877 Input Tokens, 75 Output Tokens
 
@@ -115,10 +115,10 @@ Sonnet                   147 lines           ███████████�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.25% of written lines came from AI
+🤖 AI-Driven — 73.13% of written lines came from AI
 📚 Verbose Prompter — average 15,993 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 39.51% of changed lines were hand-edited
+🚀 High AI Trust — 27.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +134,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 04:03:06 UTC
+ Last Updated on 26/10/2026 04:07:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
