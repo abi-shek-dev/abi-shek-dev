@@ -84,41 +84,38 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     50 mins             ███████████░░░░░░░░░░░░░░   42.92 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Other                    20 mins             █████████████████░░░░░░░░   67.93 % 
+Java Properties          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Java                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 35 mins        ████████████████████░░░░░   81.43 % 
-VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+IntelliJ IDEA            30 mins             █████████████████████████   99.73 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (48.81%)
+⏱ AI Coding Time: 20 mins (67.93%)
 
-✍️ 147 lines written by AI, 54 lines written by hand (73.13% AI-written)
+✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
 
-🔤 23,877 Input Tokens, 75 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.07 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 19 AI Prompts
-
-Sonnet                   147 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 2 AI Sessions, 10 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.13% of written lines came from AI
-📚 Verbose Prompter — average 15,993 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 30,336 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 27.94% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +131,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 04:27:39 UTC
+ Last Updated on 28/10/2026 04:58:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
