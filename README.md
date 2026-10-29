@@ -84,38 +84,19 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    20 mins             █████████████████░░░░░░░░   67.93 % 
-Java Properties          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Java                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            30 mins             █████████████████████████   99.73 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (67.93%)
-
-✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 30,336 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +112,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:58:34 UTC
+ Last Updated on 29/10/2026 05:09:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
